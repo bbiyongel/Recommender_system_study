@@ -4,3 +4,5 @@ https://www.coursera.org/specializations/recommender-systems 에서 무료로 �
 ## 방식
 2주 이론 스터디 <br>
 1주 실습 스터디
+## 기간
+2020년 1학기
